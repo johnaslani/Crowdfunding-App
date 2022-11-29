@@ -17,7 +17,7 @@ This program licensed under [MIT](https://img.shields.io/badge/license-MIT-blue)
 
 ## Video
 
-[Adding database varibale infor in .env, enter schema and seed commands, enter the command to invoke the application](https://drive.google.com/file/d/1fNhcrkmPYvNsbA7iBKGQvcg-MnmSVHEO/view)
+[Adding database varibale info in .env, enter schema and seed commands, enter the command to invoke the application](https://drive.google.com/file/d/1fNhcrkmPYvNsbA7iBKGQvcg-MnmSVHEO/view)
 
 [open API GET routes in Insomnia for categories, products, or tags; test API POST, PUT, and DELETE routes in Insomnia](https://drive.google.com/file/d/1tEUhMLPOWRDX4BqRsyBdJzH-5SINKShu/view)
 
